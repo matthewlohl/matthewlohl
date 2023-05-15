@@ -5,7 +5,7 @@
 </p>
 
 <hr/>
-<h4 align="center">I am a Tech Trainee at futureproof. I like to code, design, and solve problems. I am an enthusiastic person who loves to take up new challenges and learn new skills. Let's exchanging ideas, collabrate and make things happen.</h4>
+<h4 align="center">I am a CRM Software Developer at Just Group plc. I like to code, design, and solve problems. I am an enthusiastic person who loves to take up new challenges and learn new skills. Let's exchanging ideas, collabrate and make things happen.</h4>
 <br>
 <p align="center">
 <img src="https://komarev.com/ghpvc/?username=matthewlohl&label=Profile%20views&color=brightgreen&style=plastic" alt="candida18" />
